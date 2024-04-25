@@ -1,4 +1,31 @@
-### Hi there 👋
+# Mahnoor Qasim ✨
+
+## About Me 👩‍💻
+
+Hello! I'm Mahnoor Qasim, a passionate software engineering student from LCWU. I am currently in my 8th semester and have a strong desire to become a full stack web developer. I believe in the power of technology to transform lives and I am dedicated to honing my skills to make a positive impact in the field of web development. 💪
+
+## Projects 🚀
+
+### Education Intelligence 🎓
+
+I am currently working on a project called Education Intelligence. This project aims to revolutionize the education sector by leveraging artificial intelligence and data analysis. Through this project, I am developing a web application that provides personalized learning experiences, performance tracking, intelligent recommendations, and collaboration tools for students, educators, and institutions. I am excited about the potential of this project to enhance the learning experience and make education more accessible and effective. 🌟
+
+## Skills 🛠️
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Git
+
+## Education 🎓
+
+- Bachelor of Science in Software Engineering - LCWU (Expected graduation: [Month, Year])
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahnoor-qasim-722ba4281) 
 
@@ -9,8 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahnoor567&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor567&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahnoor567&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahnoor567&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -18,4 +43,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mahnoor567&icon=0&color=0)](https://visitcount.itsvg.in)
 
+**Thank you for visiting my GitHub profile. I am excited about the journey ahead as I continue to learn and grow as a web developer. Let's connect and create something amazing together! ✨🌟**
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
