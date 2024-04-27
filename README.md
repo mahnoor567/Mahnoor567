@@ -22,7 +22,7 @@ I am currently working on a project called Education Intelligence. This project 
 
 ## Education 🎓
 
-- Bachelor of Science in Software Engineering - LCWU (Expected graduation: [Month, Year])
+- Bachelor of Science in Computer science - LCWU (Expected graduation: june, 2024)
 
 
 
